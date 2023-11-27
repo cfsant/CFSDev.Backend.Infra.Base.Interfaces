@@ -1,0 +1,12 @@
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\bin\Debug\net6.0\Backend.Infra.Base.Interfaces.deps.json
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\bin\Debug\net6.0\Backend.Infra.Base.Interfaces.dll
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\bin\Debug\net6.0\Backend.Infra.Base.Interfaces.pdb
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.csproj.AssemblyReference.cache
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.AssemblyInfoInputs.cache
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.AssemblyInfo.cs
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.csproj.CoreCompileInputs.cache
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.dll
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\refint\Backend.Infra.Base.Interfaces.dll
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\Backend.Infra.Base.Interfaces.pdb
+D:\projects\services\Beta\Backend.Infra.Base.Interfaces\obj\Debug\net6.0\ref\Backend.Infra.Base.Interfaces.dll
